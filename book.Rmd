@@ -23,8 +23,8 @@ geographical data. The resulting *spatial microdata* are useful in many
 situations where individual-level and geographically specific
 processes are in operation, enabling modelling and analysis on multiple levels.
 Spatial microsimulation can also be seen as an approach to better understand
-the world. The term
-is little known outside the fields of human geography and regional
+the world. 
+The term is little known outside the fields of human geography and regional
 science yet its methods have the potential to be useful in a wide
 range of applications. Spatial microsimulation
 has great potential for informing public policy for social
